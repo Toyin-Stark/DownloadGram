@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DownloadGram</string>
+
+
+    <string name="fastservice">Downloader Service</string>
+    <string name="switch_message">Turn on switch to start Downloader service</string>
+    <string name="switch_message_on">open Instagram and Copy Share Url of photo or video to start download</string>
+    <string name="open">Open Instagram</string>
+
+    <string name="note_title">Fastsaver is on</string>
+    <string name="note_text">Copy Share Url to instant download</string>
+
+    <string name="error">Download Error </string>
+    <string name="downloadVideo">Downloading Video</string>
+    <string name="downloadPhoto">Downloading Photo</string>
+
+    <string name="content">Instagram photo</string>
+
+    <string name="saveVideo">Download Video</string>
+    <string name="savePhoto">Download Photo</string>
+    <string name="downloadStart">Downloading…</string>
+    <string name="story_download">Download</string>
+
+    <string name="content_image">Downloaded Image</string>
+    <string name="content_video">video button</string>
+    <string name="no_story">No Stories Available</string>
+    <string name="hints">Instagram username </string>
+
+    <string name="bannerTitle">Downloading…</string>
+    <string name="save_tabs">Downloads</string>
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+</resources>
